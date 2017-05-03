@@ -1,0 +1,1 @@
+include ':app', ':httputilsdemo', ':commonadapter', ':citylist', ':JPushExample(627563)'
